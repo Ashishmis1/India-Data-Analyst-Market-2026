@@ -35,7 +35,7 @@ Initially, this project attempted to build a custom web scraper targeting live j
 
 ---
 
-## 📈 Executive Dashboard
+## 📈 Executive Dashboard 
 ![Power BI Dashboard](Dashboard_Screenshot.png)
 
 ## 💡 Key Business Insights
