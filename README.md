@@ -49,4 +49,9 @@ Initially, this project attempted to build a custom web scraper targeting live j
 * `2_Python_Scripts/`: Jupyter notebooks (`.ipynb`) containing the Pandas and Regex ETL logic.
 * `3_Cleaned_Data/`: The final structured CSV/Excel outputs (including the master 552-row dataset and the specialized Fresher extract).
 * `4_SQL_Queries/`: `.sql` scripts containing the CTEs and database aggregation logic.
-* `5_PowerBI/`: The localized `05_India_Analyst_Dashboard.pbix` file containing the semantic data model, DAX measures, and interactive visual layers.
+* `5_PowerBI/`: The localized `05_India_Analyst_Dashboard.pbix` file containing the semantic data model, DAX measures, and interactive visual layers. *(**Note:** Download this file and open it in Power BI Desktop to interact with the dynamic slicers and bookmarks).*
+
+---
+## 📬 Let's Connect
+* **LinkedIn:** [www.linkedin.com/in/ashishmis24]
+* **Email:** [data.ashish.ai@gmail.com]
