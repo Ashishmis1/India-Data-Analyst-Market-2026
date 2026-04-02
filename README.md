@@ -53,5 +53,5 @@ Initially, this project attempted to build a custom web scraper targeting live j
 
 ---
 ## 📬 Let's Connect
-* **LinkedIn:** [www.linkedin.com/in/ashishmis24]
-* **Email:** [data.ashish.ai@gmail.com]
+* **LinkedIn:** www.linkedin.com/in/ashishmis24
+* **Email:** data.ashish.ai@gmail.com
